@@ -24,18 +24,9 @@
 
 ### [1º Semestre/2022](https://github.com/Codificados-DSM-2022/API-2022-1)
 
-Foi apresentado um problema onde precisavamos criar um sistema que controlasse a prestação de serviços de TI, tanto sob o ponto de vista de um cliente como de um executor.
+Problema: O problema apresentado pelo cliente era a necessidade de um sistema que pudesse controlar prestações de serviço de TI, tanto sob o ponto de vista de um cliente quanto de um executor. Deveria ser possivel para os usuarios comuns criar e enviar solicitações para os executores poderem responde-las.
 
-## Tecnologias
-
-<ul>
-     <li>Figma</li>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>Python</li>
-     <li>Flask</li>
-     <li>MySQL</li>
-</ul>
+Solução: A solução desenvolvida foi uma pagina web onde qualquer um poderia acessa-la para abrir solicitações e os funcionarios cadastrados poderiam receber e atende-las. Foi utilizado no desenvolvimento desse sistema as seguintes tecnologias: HTML, CSS, Python, Flask e MySQL.
 
 ## Hard Skills
 
@@ -69,18 +60,9 @@ Foi apresentado um problema onde precisavamos criar um sistema que controlasse a
 
 ### [2º Semestre/2022](https://github.com/The-Seven-DSM/Send.me-Documentacao-2022-2)
 
-Foi apresentado um problema onde precisavamos criar um sistema que permitisse a identificação de associados no Diário Oficial do Estado de São Paulo e enviasse uma notificação por e-mail para eles.
+Problema: O problema apresentado pelo cliente foi um sistema que permitisse identificar no Diário Oficial do Estado de São Paulo o nome de clientes associados a empresa e avisa-los por meio de notificações enviadas pelo e-mail. Também deveria ser possível o gerenciamento desses associados.
 
-## Tecnologias
-     
-<ul>
-     <li>Figma</li>
-     <li>React</li>
-     <li>Python</li>
-     <li>Javascript</li>
-     <li>Node</li>
-     <li>MySQL</li>
-</ul>
+Solução: A solução desenvolvida foi um sistema que baixava o Diário Oficial do Estado de São Paulo e analisava todas informações para poder encontrar os nomes dos clientes associados. Seria então enviada uma notificação via e-mail para esses clientes encontrados nos PDFs. O sistema foi desenvolvido usando as seguintes tecnologias: React, Python, Javascript, Node.js e MySQL.
      
 ## Hard Skills
 
@@ -110,16 +92,9 @@ Foi apresentado um problema onde precisavamos criar um sistema que permitisse a 
 
 ### [3º Semestre/2023](https://github.com/Equipe-Ace/Ace-documentation)
 
-Foi apresentado um problema onde precisavamos criar um sistema que permitisse a gestão de cobranças de uma empresa. Esse sistema permite o cadastro de parcelas, pagamento delas e visualização de um relatorios delas também.
+Problema: O problema apresentado pelo cliente foi um sistema que permitisse a gestão de cobranças de serviços comprados por uma empresa. Esse sistema permitiria o cadastro de parcelas, pagamento delas e visualização de relatorios com todas as informações que um funcionario poderia quer poder manusear.
 
-## Tecnologias
-     
-<ul>
-     <li>Figma</li>
-     <li>React</li>
-     <li>Java</li>
-     <li>Typescript</li>
-</ul>
+Solução: A solução desenvolvida foi um sistema que poderia cadastrar novas empresas junto dos serviços comprados. Parcelas seriam geradas automaticamente para cada mes após o cadastro. Essas parcelas deveriam ser pagas a tempo para que o cliente se mantesse adimplente, mas se atrasasse, se tornaria inadimplente. Foram utilizadas as seguintes tecnologias no desenvolvimento: React, Java e Typescript.
      
 ## Hard Skills
 
