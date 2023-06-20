@@ -28,6 +28,10 @@ Problema: O problema apresentado pelo cliente era a necessidade de um sistema qu
 
 Solução: A solução desenvolvida foi uma pagina web onde qualquer um poderia acessa-la para abrir solicitações e os funcionarios cadastrados poderiam receber e atende-las. Foi utilizado no desenvolvimento desse sistema as seguintes tecnologias: HTML, CSS, Python, Flask e MySQL.
 
+## Contribuição
+
+Inicialmente trabalhei no desenvolvimento de paginas web usando html e css. Desenvolvi as paginas de cadastro e login. Mais para o final do projeto, migrei para o back-end e programei todo o sistema do gráfico na pagina de relatorio.
+
 ## Hard Skills
 
 <ul>
@@ -63,6 +67,10 @@ Solução: A solução desenvolvida foi uma pagina web onde qualquer um poderia 
 Problema: O problema apresentado pelo cliente foi um sistema que permitisse identificar no Diário Oficial do Estado de São Paulo o nome de clientes associados a empresa e avisa-los por meio de notificações enviadas pelo e-mail. Também deveria ser possível o gerenciamento desses associados.
 
 Solução: A solução desenvolvida foi um sistema que baixava o Diário Oficial do Estado de São Paulo e analisava todas informações para poder encontrar os nomes dos clientes associados. Seria então enviada uma notificação via e-mail para esses clientes encontrados nos PDFs. O sistema foi desenvolvido usando as seguintes tecnologias: React, Python, Javascript, Node.js e MySQL.
+
+## Contribuição:
+
+Nesse semestre participei do como PO da equipe e trabalhei principalmente nessa parte do trabalho. Tirei todas as duvidas da equipe com o cliente. Fiz também parte das documentações do projeto.
      
 ## Hard Skills
 
@@ -95,6 +103,10 @@ Solução: A solução desenvolvida foi um sistema que baixava o Diário Oficial
 Problema: O problema apresentado pelo cliente foi um sistema que permitisse a gestão de cobranças de serviços comprados por uma empresa. Esse sistema permitiria o cadastro de parcelas, pagamento delas e visualização de relatorios com todas as informações que um funcionario poderia quer poder manusear.
 
 Solução: A solução desenvolvida foi um sistema que poderia cadastrar novas empresas junto dos serviços comprados. Parcelas seriam geradas automaticamente para cada mes após o cadastro. Essas parcelas deveriam ser pagas a tempo para que o cliente se mantesse adimplente, mas se atrasasse, se tornaria inadimplente. Foram utilizadas as seguintes tecnologias no desenvolvimento: React, Java e Typescript.
+
+## Contribuições:
+
+Neste trabalho trabalhei inicialmente como PO, mas acabei migrando para o dev team ainda na segunda sprint do projeto. Produzi parte da logica das parcelas e concertei parte dos relatorios.
      
 ## Hard Skills
 
