@@ -46,7 +46,7 @@ Inicialmente trabalhei no desenvolvimento de paginas web usando html e css. Dese
 
 <ul>
      <li>Organização: Aprendi a organizar minhas tarefas melhor.</li>
-     <li>Proatividade: Aprendi a resolver os problemas com agilidade e buscar as melhores soluções.</li>
+     <li>Proatividade: Aprendi a trabalhar por conta própria para a melhor produção do grupo.</li>
      <li>Comunicação: Aprendi a ter uma melhor comunicação.</li>
 </ul>
 
@@ -119,8 +119,8 @@ Neste trabalho trabalhei inicialmente como PO, mas acabei migrando para o dev te
 ## Soft Skills
 
 <ul>
-     <li>Proatividade: Aprendi a resolver os problemas com agilidade e buscar as melhores soluções.</li> 
-     <li>Adaptabilidade:Demonstrei adaptabilidade ao mexer tanto no back-end quanto no front-end</li>     
+     <li>Proatividade: Aprendi a trabalhar por conta própria para a melhor produção do grupo.</li>
+     <li>Adaptabilidade: Demonstrei adaptabilidade ao aprender a trabalhar em diversas partes do projeto.</li>     
 </ul>
 
 ## Demonstração do sistema
